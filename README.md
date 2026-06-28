@@ -1,2 +1,2 @@
 # badge
-badge2
+badge-2
