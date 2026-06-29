@@ -1,3 +1,3 @@
 # badge
-badge-2
-badge-3
+badge-2 
+badge-3 
